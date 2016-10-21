@@ -6,6 +6,7 @@
 //  Copyright (c) 2014 Canna Software. All rights reserved.
 //
 
+@import UIKit;
 #import "CALayer+Additions.h"
 
 @implementation CALayer (Additions)

@@ -39,6 +39,7 @@
 
 
 //---------- include files
+#import "Foundation/Foundation.h"
 #import "BRGlobal.h"
 
 

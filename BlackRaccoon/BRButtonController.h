@@ -24,7 +24,7 @@
 
 
 //---------- include files
-
+#import "Foundation/Foundation.h"
 
 
 //---------- enumerated data types
