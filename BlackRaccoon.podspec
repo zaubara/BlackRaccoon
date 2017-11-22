@@ -16,5 +16,5 @@ Pod::Spec.new do |s|
   s.source_files  = 'BlackRaccoon/BlackRaccoon/*.{h,m}'
 
   s.framework  = 'CFNetwork'
-
+  s.ios.deployment_target  = '8.0'
 end
